@@ -5,3 +5,4 @@ def wish(name):
     print(f"hello..{name}  welcome to hashedin")
 
 wish("yella reddy")
+wish("putha")
